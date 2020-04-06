@@ -17,7 +17,7 @@
     }
   },
   "files":[
-    "Dockerfile", "index.html"
+    "index.html"
   ],
   "environment": {
     "uilayout": "editor-terminal",
