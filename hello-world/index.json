@@ -16,6 +16,9 @@
       "text": "finish.md"
     }
   },
+  "files":[
+    "Dockerfile", "index.html"
+  ],
   "environment": {
     "uilayout": "editor-terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nA good starting point is executing `docker`\u001b[m\r\n"
